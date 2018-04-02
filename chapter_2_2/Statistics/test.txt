@@ -1,0 +1,4 @@
+Write tests that use your own multi-line strings to verify the output. Your application should be modularized into discrete methods for easier testing. You should be able to write a test that gives the string "this is is not a test" and receives an instance that will reveal the word "is" as the top used word.
+
+To really test out your knowledge of this chapter’s contents, make sure to use objects, traits, and case classes in your solution.
+
